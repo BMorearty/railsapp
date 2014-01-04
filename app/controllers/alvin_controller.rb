@@ -1,0 +1,2 @@
+class AlvinController < ApplicationController
+end
